@@ -1,4 +1,6 @@
 # Drone Data Communication System
+Team Members: Darian Jennings, Gabi Sandoval, Omar Aboulhosn --- all Computer Engineering c/o 2022
+Senior Capstone Project (Engineering Senior Design) at St. Mary's University in San Antonio, TX. See https://www.stmarytx.edu/academics/set/senior-design/
 
 # Tools Used 💡:
 1. Qt -- QtCreator & QtDesigner
