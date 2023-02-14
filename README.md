@@ -1,6 +1,6 @@
 # Drone Data Communication System
 
-# Tools Used :lightbulb:
+# Tools Used :lightbulb
 1. Qt -- QtCreator & QtDesigner
 2. Redis 
 3. Raspberry Pi 
